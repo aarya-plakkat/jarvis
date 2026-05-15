@@ -1,0 +1,1 @@
+Mini-Jarvis demonstrates how enterprise-grade AI assistants can be built using self-hosted LLMs combined with vector databases for contextual intelligence.
